@@ -4,4 +4,4 @@
 [core]
 	autocrlf = true
 [init]
-    defaultBranch = main
+	defaultBranch = main
