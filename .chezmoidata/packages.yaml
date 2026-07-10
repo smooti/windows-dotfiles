@@ -4,3 +4,4 @@ packages:
       - 'Valve.Steam'
       - 'Spotify.Spotify'
       - 'Microsoft.PowerToys'
+      - 'Starship.Starship'
