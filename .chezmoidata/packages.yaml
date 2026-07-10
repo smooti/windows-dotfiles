@@ -1,0 +1,5 @@
+packages:
+  windows:
+    winget:
+      - 'Valve.Steam'
+      - 'Spotify.Spotify'
