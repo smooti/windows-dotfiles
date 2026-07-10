@@ -3,3 +3,4 @@ packages:
     winget:
       - 'Valve.Steam'
       - 'Spotify.Spotify'
+      - 'Microsoft.PowerToys'
