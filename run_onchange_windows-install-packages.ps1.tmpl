@@ -1,3 +1,4 @@
+{{ if eq .chezmoi.os "windows" }}
 # Install Windows winget packages
 
 $ErrorActionPreference = "Stop"
@@ -90,3 +91,4 @@ foreach ($packageId in $desiredPackageIds) {
 }
 
 Write-Host 'Complete!' -ForegroundColor Blue
+{{ end }}
